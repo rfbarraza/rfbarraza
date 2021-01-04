@@ -15,7 +15,7 @@
 
 <details>
   <summary>⚡ Github stats</summary>
-[![My github stats](https://github-readme-stats.rfbarraza.vercel.app/api?username=rfbarraza&show_icons=true&count_private=true&custom_title=Stats&include_all_commits=true&hide_border=true&hide=stars,prs&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.rfbarraza.vercel.app/api?username=rfbarraza&show_icons=true&count_private=true&custom_title=rfbarraza stats&include_all_commits=true&hide_border=true&hide=stars,prs&theme=graywhite"/>
 </details>
 
 <hr/>
